@@ -14,20 +14,6 @@ Zip Analyzer addresses this issue by scanning files for multiple embedded ZIP st
   - Archive comments and platform information.
 - Outputs results in JSON format for easy integration and further analysis.
 
-## Requirements
-- Python 3.6 or later.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/zip-analyzer.git
-   cd zip-analyzer
-   ```
-2. Install dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 Run the script with the file you want to analyze as an argument:
 
